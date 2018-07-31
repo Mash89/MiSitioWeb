@@ -1,0 +1,22 @@
+body {
+  background: gray;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: yellow;
+}
